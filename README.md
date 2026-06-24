@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./assets/profile-banner.png" width="100%">
+
+</div>
+
+
 # Olá, eu sou o William Gomes de Freitas 👋
 
 Sou especialista em **Inteligência Geográfica, Análise Espacial e Banco de Dados**. Minha trajetória une mais de 10 anos de experiência estratégica no setor comercial a uma sólida formação técnica em geotecnologias e desenvolvimento de dados. 
